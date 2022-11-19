@@ -1,1 +1,1 @@
-# kafka-insta
+# insta
