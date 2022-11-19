@@ -6,7 +6,7 @@ def get_information_user():
     return{
         "profile" : insta.profilepic(),
         "videos" : insta.video(),
-        "hashtag" : insta.hashtag
+        "hashtag" : insta.hashtag()
     }
     
     
